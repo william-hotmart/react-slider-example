@@ -4,7 +4,7 @@ This project contain an example of how to use Glider with React to create a ligh
 
 ## Running
 
-You need to have Nodeinstalled on your machine (prefer the latest version)
+You need to have Node installed on your machine (prefer the latest version)
 
 ### Installing:
 
